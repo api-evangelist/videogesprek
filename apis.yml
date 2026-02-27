@@ -1,0 +1,41 @@
+name: Videogesprek API
+description: API for video calling and conferencing services
+url: https://videogesprek.com
+type: Index
+tags:
+- video
+- conferencing
+- communication
+- real-time
+- webrtc
+created: '2024'
+modified: '2024'
+apis:
+- name: Videogesprek Core API
+  description: Main API for creating and managing video calls
+  baseURL: https://api.videogesprek.com/v1
+  humanURL: https://videogesprek.com/docs
+  image: https://videogesprek.com/images/logo.png
+  tags:
+  - video calls
+  - rooms
+  - sessions
+  properties:
+  - type: Documentation
+    url: https://videogesprek.com/docs/api
+  - type: OpenAPI
+    url: https://api.videogesprek.com/v1/openapi.json
+  - type: Authentication
+    url: https://videogesprek.com/docs/authentication
+  contact:
+  - type: Support
+    url: https://videogesprek.com/support
+  - type: Email
+    url: mailto:support@videogesprek.com
+  - type: Twitter
+    url: https://twitter.com/videogesprek
+maintainers:
+- name: Videogesprek Team
+  email: api@videogesprek.com
+  url: https://videogesprek.com
+include: []
