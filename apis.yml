@@ -1,41 +1,20 @@
-name: Videogesprek API
-description: API for video calling and conferencing services
-url: https://videogesprek.com
+aid: videogesprek
+name: Videogesprek
+description: >-
+  Videogesprek is a concept or service related to video calling and
+  conferencing. No publicly documented API or developer portal has been
+  identified for this provider.
 type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- video
-- conferencing
-- communication
-- real-time
-- webrtc
-created: '2024'
-modified: '2024'
-apis:
-- name: Videogesprek Core API
-  description: Main API for creating and managing video calls
-  baseURL: https://api.videogesprek.com/v1
-  humanURL: https://videogesprek.com/docs
-  image: https://videogesprek.com/images/logo.png
-  tags:
-  - video calls
-  - rooms
-  - sessions
-  properties:
-  - type: Documentation
-    url: https://videogesprek.com/docs/api
-  - type: OpenAPI
-    url: https://api.videogesprek.com/v1/openapi.json
-  - type: Authentication
-    url: https://videogesprek.com/docs/authentication
-  contact:
-  - type: Support
-    url: https://videogesprek.com/support
-  - type: Email
-    url: mailto:support@videogesprek.com
-  - type: Twitter
-    url: https://twitter.com/videogesprek
+  - Video
+  - Conferencing
+created: '2024-01-01'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/videogesprek/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
 maintainers:
-- name: Videogesprek Team
-  email: api@videogesprek.com
-  url: https://videogesprek.com
-include: []
+  - FN: Kin Lane
+    email: kin@apievangelist.com
