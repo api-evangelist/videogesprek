@@ -1,41 +1,31 @@
-# Videogesprek API (videogesprek)
-API for video calling and conferencing services
+# Videogesprek
 
-**URL:** [Visit APIs.json URL](https://videogesprek.com)
+Videogesprek is a Dutch term meaning "video call." No company or service specifically named Videogesprek with a public developer API or documentation portal has been identified.
+
+**URL:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/videogesprek/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - video, conferencing, communication, real-time, webrtc
+- Video
+- Conferencing
+- Video Calling
 
 ## Timestamps
 
-- **Created:** 2024 
-- **Modified:** 2024 
+- **Created:** 2024-01-01
+- **Modified:** 2026-05-03
 
-## APIs
+## Overview
 
-### Videogesprek Core API
-Main API for creating and managing video calls
-
-**Human URL:** [https://videogesprek.com/docs](https://videogesprek.com/docs)
-
-
-#### Tags:
-
- - video calls, rooms, sessions
-
-#### Properties
-
-- [Documentation](https://videogesprek.com/docs/api)
-- [OpenAPI](https://api.videogesprek.com/v1/openapi.json)
-- [Authentication](https://videogesprek.com/docs/authentication)
+The term "videogesprek" is Dutch for "video call" and is used generically in the Netherlands. Notable Dutch government services use video calling for identity verification (such as DigiD video call activation for citizens abroad), but this is not an API product. No publicly documented API or developer portal has been identified for a provider specifically named Videogesprek.
 
 ## Maintainers
 
-**FN:** Videogesprek Team
-
-**Email:** api@videogesprek.com
+**FN:** Kin Lane
+**Email:** kin@apievangelist.com
