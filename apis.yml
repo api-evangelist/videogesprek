@@ -40,6 +40,8 @@ tags:
 created: '2024-01-01'
 modified: '2026-05-03'
 url: >-
+x-api-posture: no-product-api
+x-api-posture-basis: observed
   https://raw.githubusercontent.com/api-evangelist/videogesprek/refs/heads/main/apis.yml
 specificationVersion: '0.23'
 apis: []
